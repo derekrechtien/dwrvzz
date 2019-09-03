@@ -1,0 +1,29 @@
+# Stakeholders
+# Users (maybe the same)
+1. Editor
+    -Functional requirements
+      -way to search photos using key words
+      -user will be able to check if photo is used in correct context
+      -edit existing photos
+2. Photographer
+    -Functional requirements
+      -way to pay royalties to photographer
+      -must be able to upload the pictures
+      -must be able to see what photos are required by the paper
+      -edit their photos
+3. Journalist
+    - Functional Requirements
+      - search database for photos using keywords 
+      - easily add photos to articles
+      - format the pictures in articles
+      - prevent journalists from editing photos
+4. Newspaper Owner
+    - Functional Requirements
+      - must be able to keep track of royalties paid to photographers
+
+#System Requirements
+1. Database
+2. Disk storage
+3. Web Interface
+4. Web server
+5. SD card reader
